@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8269
     wikipedia: http://en.wikipedia.org/wiki/Arnaud-Michel_d%27Abbadie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18812#Douze-ans-de-s-jour-dans-la-Haute--thiopie
 gutenberg_bookshelf:
 - FR Peuples et Sociétés
 - FR Voyages et pays
