@@ -1,0 +1,33 @@
+_repo: Douze-ans-de-s-jour-dans-la-Haute--thiopie_18812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbadie, Arnauld d'
+    alias: D'Abbadie, Arnauld
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '8269'
+    url: http://www.gutenberg.org/2009/agents/8269
+    wikipedia: http://en.wikipedia.org/wiki/Arnaud-Michel_d%27Abbadie
+description: ''
+gutenberg_bookshelf:
+- FR Peuples et Sociétés
+- FR Voyages et pays
+gutenberg_issued: '2006-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18812'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethiopia -- Description and travel'
+- !lcsh 'Ethiopia -- History -- 19th century'
+- !lcc 'DT'
+- !lcsh 'Abbadie, Arnauld d'', 1815-1894'
+title: Douze ans de séjour dans la Haute-Éthiopie
+url: http://www.gutenberg.org/ebooks/18812
